@@ -1,13 +1,14 @@
 # iOS-TimeTest
 
-DESCRIPTION
+# DESCRIPTION
+
 
 
 
 Five measures are included in TimeTest to assess how psychiatric patients perceive time. 
 It was created for the psychiatric assistant's article to be published. Since it's a private app, I'm simply sharing the login screens.
 
-Technologies: Swift-UIKit, FireStore, Cocoapods
+## Technologies: Swift-UIKit, FireStore, Cocoapods
 
 
 
