@@ -14,7 +14,7 @@ It was created for the psychiatric assistant's article to be published. Since it
 
 
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-09-08 at 09 57 34](https://user-images.githubusercontent.com/55625400/189056209-7f492790-882c-41f2-92d5-69e4982ea753.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-09-08 at 09 57 34](https://user-images.githubusercontent.com/55625400/189056209-7f492790-882c-41f2-92d5-69e4982ea753.png|width=100)
 
 
 
