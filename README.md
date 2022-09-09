@@ -8,12 +8,14 @@ It was created for the psychiatric assistant's article to be published. Since it
 
 ## Technologies: Swift-UIKit, FireStore, Cocoapods
 
+<img width="548" alt="Screen Shot 2022-09-09 at 16 56 16" src="https://user-images.githubusercontent.com/55625400/189366895-a5ceb945-f54b-4675-80ec-7ee38418d6bc.png">
 
-<img width="548" alt="Screen Shot 2022-09-09 at 16 41 19" src="https://user-images.githubusercontent.com/55625400/189363849-aa1ba645-e63b-4a73-bcf0-6558e101ec71.png">
+<img width="548" alt="Screen Shot 2022-09-09 at 16 56 26" src="https://user-images.githubusercontent.com/55625400/189366915-f724ecc0-ebb4-4b65-b998-7578fa541abf.png">
 
 
 
-<img width="548" alt="Screen Shot 2022-09-09 at 16 41 30" src="https://user-images.githubusercontent.com/55625400/189363872-3e10cfe2-9022-4f28-adc2-ed165e8a11d7.png">
+
+
 
 
 
